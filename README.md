@@ -8,4 +8,5 @@ As of now, the project is still in development, but I made this repo so you can 
 So I am mainly building LFS as of now, and it's going on a VM because I only have and use 1 PC. Progress has been smooth, so far. I got past compiling GCC and the kernel headers, but my system kernel panicked mid-compilation (I was compiling glibc) and now I have to restart from my last snapshot. Wish me luck with this. 
 # -- DEV LOG 1--
 I have been doing loads of more general CS studying, and I have found out about the GFOSS (Greek Free and Open Source Software) and I find it pretty cool, esspecially because I am greek myself. As for LFS and general OpenHex building, it's been going pretty smooth, although I am still waiting on OpenHex sys/hextool building because I'm not done with LFS, but I am getting closer to finally getting past the cycle of extract, configure and compile. 
-
+# --DEV LOG 2--
+Damn. I accidentally deleted the VM I was working on, and now I have to restart. Thats all there really is to this dev log and from now on these logs will have the date that they were made. 28/06/2025
